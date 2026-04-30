@@ -247,4 +247,9 @@ int main()
         case '5':
             list.searchData();
             break;
+        case '6':
+            return 0;
+        default:
+            cout << "Invalid option\n";
+        }
 
