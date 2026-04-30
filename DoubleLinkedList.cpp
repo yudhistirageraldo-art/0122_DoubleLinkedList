@@ -210,3 +210,8 @@ void revtraverse()
         }
     }
 };
+
+int main()
+{
+    DoubleLinkedList list;
+    char choice;
