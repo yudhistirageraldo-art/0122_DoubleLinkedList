@@ -241,4 +241,7 @@ int main()
         case '3':
             list.traverse();
             break;
+        case '4':
+            list.revtraverse();
+            break;
 
